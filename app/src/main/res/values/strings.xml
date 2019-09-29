@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alarm Assistant</string>
+    <string name = "api_url_cityID">http://where.yahooapis.com/v1/places.q(city_name_pattern);count=MAX_RESULT_SIZE?appid=dj0yJmk9dzhhbVI2ZWhJZVhFJmQ9WVdrOVptWkVOblpyTm0wbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD04Nw--</string>
+    <string name = "voiceSetting">voiceSet</string>
+    <string name = "locationSetting">locationSet</string>
+    <string name = "userName">userNameSet</string>
+    <string name = "notificationSet">notificationSetting</string>
+    <string name = "newsSetting">newsSet</string>
+    <string name = "unitsUsed">units</string>
+    <string name = "hourSetting">hourSet</string>
+    <string name = "minuteSetting">minuteSet</string>
+    <string name = "prefName">sharedPrefsStorage</string>
+
+    <string-array name="language">
+        <item>Canada</item>
+        <item>China</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Taiwan</item>
+        <item>UK</item>
+        <item>US</item>
+    </string-array>
+    <string-array name="news">
+        <item>None</item>
+        <item>BBC News</item>
+        <item>BBC Sport</item>
+        <item>Bloomberg</item>
+        <item>Business Insider</item>
+        <item>Business Insider UK</item>
+        <item>Buzzfeed</item>
+        <item>CNBC</item>
+        <item>CNN</item>
+        <item>ESPN</item>
+        <item>Fortune</item>
+        <item>Fox Sports</item>
+        <item>Google News</item>
+        <item>Independent</item>
+        <item>National Geographic</item>
+        <item>New Scientist</item>
+        <item>NFL News</item>
+        <item>Polygon</item>
+        <item>Sky News</item>
+        <item>The Huffington Post</item>
+        <item>The Wall Street Journal</item>
+        <item>The Washington Post</item>
+        <item>Time</item>
+        <item>USA Today</item>
+    </string-array>
+    <string-array name="units">
+        <item>Fahrenheit/Miles</item>
+        <item>Celsius/Kilometers</item>
+    </string-array>
+</resources>
